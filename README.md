@@ -41,20 +41,6 @@ Smart Notes is a modern Android application built using **Jetpack Compose** that
 
 ---
 
-## 📁 Folder Structure
-
-├── presentation
-│ ├── addNote # UI and editor screen
-│ └── viewmodel # NoteViewModel with DI
-├── data
-│ ├── local # Room database and DAO
-│ └── model # Note data model
-└── di
-└── AppModule # Hilt modules
-
-
----
-
 ## 🧠 How to Contribute
 
 1. Fork the repository
